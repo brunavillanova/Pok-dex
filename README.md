@@ -1,6 +1,6 @@
 Projeto Pokédex
 
-![Interface do Projeto](imges/image.png)
+![Interface do Projeto](images/image.png)
 
 1. Descrição Geral
 
